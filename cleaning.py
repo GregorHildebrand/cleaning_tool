@@ -7,7 +7,7 @@ import os
 workdir = os.path.expanduser("~/AppData/Local/Temp/")
 workdir2 = os.path.expanduser("~/AppData/Local/Microsoft/Windows/Explorer/")
 workdir3 = os.path.expanduser("~/AppData/Local/Microsoft/INetCache/IE/")
-workdir4 = os.path.expanduser("~/Windows/TEMP/")
+workdir4 = os.path.expanduser("~/Windows/Temp/")
 workdir5 = os.path.expanduser("~/AppData/Local/CrashDumps/")
 workdir6 = os.path.expanduser("~/Windows/Logs/")
 
