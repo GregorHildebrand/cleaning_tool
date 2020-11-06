@@ -1,4 +1,10 @@
 This small cleaning tool, written in Python, can be executed under the Windows operating systems.
+If Python is installed on your Windows operating system you can execute the python script by clicking/double-clicking it, and alternatively you can execute the batch-script "run_script.bat" via commandline or by clicking/double-clicking it.
+If PermissionErrors are showed in your commandline, please execute the batch-script "run_script.bat" with admin/elevated privileges.
+
+Requirements:
+
+-> Python (2.x.x or 3.x.x): Please visit https://www.python.org/downloads/
 
 
 
