@@ -1,4 +1,4 @@
-This little cleaning tool, written in Python, can be executed under the Windows operating system.
+This small cleaning tool, written in Python, can be executed under the Windows operating systems.
 
 
 
