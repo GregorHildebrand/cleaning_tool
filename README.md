@@ -1,3 +1,4 @@
+This little cleaning tool, written in Python, can be executed under the Windows operating system.
 
 
 DISCLAIMER - USE AT YOUR OWN RISK
