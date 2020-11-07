@@ -18,5 +18,5 @@ def main():
 				for file in files:
 					os.remove(os.path.join(root, file))
 
-	if __name__ == "__main__":
-		main()
+if __name__ == "__main__":
+	main()
