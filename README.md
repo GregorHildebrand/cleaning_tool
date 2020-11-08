@@ -9,6 +9,7 @@
 Requirements:
 
 -> Python (2.x.x or 3.x.x): Please visit https://www.python.org/downloads/
+(Does run with Python 2.x.x and Python 3.x.x)
 
 
 
